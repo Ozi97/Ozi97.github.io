@@ -1,0 +1,6 @@
+---
+layout: post
+categories: research
+title:  "Learning to Navigate Using Mid-Level Visual Priors"
+authors: "Alexander Sax, Jeffrey O. Zhang, Bradley Emi, Amir Zamir, Silvio Savarese, Leonidas Guibas, Jitendra Malik"
+---

@@ -1,0 +1,6 @@
+---
+layout: post
+categories: research
+title:  "RL-RRT: Kinodynamic Motion Planning via Learning Reachability Estimators from RL Policies"
+authors: "Hao-Tien Lewis Chiang, Jasmine Hsu, Marek Fiser, Lydia Tapia, Aleksandra Faust"
+---

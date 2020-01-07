@@ -1,0 +1,6 @@
+---
+layout: post
+categories: research
+title:  "Generalization through Simulation: Integrating Simulated and Real Data into Deep Reinforcement Learning for Vision-Based Autonomous Flight"
+authors: "Katie Kang, Suneel Belkhale, Gregory Kahn, Pieter Abbeel, Sergey Levine"
+---

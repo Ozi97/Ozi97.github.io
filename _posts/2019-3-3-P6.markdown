@@ -1,0 +1,6 @@
+---
+layout: post
+categories: research
+title:  "D2-Net: A Trainable CNN for Joint Detection and Description of Local Features"
+authors: "Mihai Dusmanu, Ignacio Rocco, Tomas Pajdla, Marc Pollefeys, Josef Sivic, Akihiko Torii, Torsten Sattler"
+---
